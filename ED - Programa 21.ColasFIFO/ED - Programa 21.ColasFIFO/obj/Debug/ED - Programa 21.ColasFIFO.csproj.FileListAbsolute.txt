@@ -1,0 +1,9 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\bin\Debug\ED - Programa 21.ColasFIFO.exe.config
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\bin\Debug\ED - Programa 21.ColasFIFO.exe
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\bin\Debug\ED - Programa 21.ColasFIFO.pdb
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\obj\Debug\ED - Programa 21.ColasFIFO.csprojResolveAssemblyReference.cache
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\obj\Debug\ED___Programa_21.ColasFIFO.Form1.resources
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\obj\Debug\ED___Programa_21.ColasFIFO.Properties.Resources.resources
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\obj\Debug\ED - Programa 21.ColasFIFO.csproj.GenerateResource.Cache
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\obj\Debug\ED - Programa 21.ColasFIFO.exe
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO\obj\Debug\ED - Programa 21.ColasFIFO.pdb

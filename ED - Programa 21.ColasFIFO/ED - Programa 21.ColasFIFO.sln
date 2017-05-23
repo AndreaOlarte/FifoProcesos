@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED - Programa 21.ColasFIFO", "ED - Programa 21.ColasFIFO\ED - Programa 21.ColasFIFO.csproj", "{06829D2C-3469-4B42-9C0F-A83F74DB49FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06829D2C-3469-4B42-9C0F-A83F74DB49FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06829D2C-3469-4B42-9C0F-A83F74DB49FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06829D2C-3469-4B42-9C0F-A83F74DB49FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06829D2C-3469-4B42-9C0F-A83F74DB49FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
